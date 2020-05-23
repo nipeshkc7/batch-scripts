@@ -1,6 +1,6 @@
 # Batch-Scripts
 
-💻💻 Some of the batch-scripts I commonly use for actions like intializing new repositories, pushing to existing repositories
+💻💻 Some of the batch-scripts I commonly use for actions like intializing new repositories, pushing to existing repositories etc.
 
 ## Usage
 
